@@ -2,6 +2,18 @@
 <HTML><HEAD>
 <META http-equiv=Content-Type content="text/html; charset=utf-8">
 <TITLE>第一步，上传您的照片 - 创建圣诞老人,把自己变成会跳舞的圣诞老人！</TITLE>
+<%
+'☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+'☆                                                                         ☆
+'☆  程 序：圣诞老人你来做 - Santa Yourself                                    ☆
+'☆  日 期：2008-12                                                          ☆
+'☆  开 发：草札(www.caozha.com)                                              ☆
+'☆  鸣 谢：琼店(www.qiongdian.com) 品络(www.pinluo.com)                      ☆
+'☆  声 明: 使用本程序源码必须保留此版权声明等相关信息！                            ☆
+'☆  Copyright ©2008 www.caozha.com All Rights Reserved.                    ☆
+'☆                                                                         ☆
+'☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+%>
 <LINK 
 href="css/styles.css" type=text/css rel=stylesheet>
 </HEAD>
