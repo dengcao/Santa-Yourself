@@ -1,0 +1,43 @@
+BODY {
+	FONT-SIZE: 12px; FONT-FAMILY: "宋体",Tahoma;
+	color:#777;
+}
+A {
+	COLOR: #3366ff; TEXT-DECORATION: none
+}
+a:hover{
+text-decoration:underline;}
+.mypage {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; WIDTH: 760px; PADDING-TOP: 10px; BACKGROUND-COLOR: #ffffff
+}
+A.button {
+font-family:"宋体",Arial, Helvetica, sans-serif;
+	PADDING-RIGHT: 25px; BORDER-TOP: #e26060 3px solid; PADDING-LEFT: 25px; FONT-WEIGHT: bold; FONT-SIZE: 13px; PADDING-BOTTOM: 9px; COLOR: #ffffff; PADDING-TOP: 7px; BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: #d30e0e
+}
+A.button:hover {
+	BORDER-TOP: #f86b6b 3px solid; BACKGROUND-COLOR: #e70f0f; TEXT-DECORATION: none
+}
+.title {
+	FONT-SIZE: 14px; COLOR: #616161
+}
+.photoBorderBig {
+	BORDER-RIGHT: #b7b7b7 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #b7b7b7 1px solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; BORDER-LEFT: #b7b7b7 1px solid; PADDING-TOP: 4px; BORDER-BOTTOM: #b7b7b7 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.tabs {
+	BORDER-TOP-WIDTH: 0px; PADDING-LEFT: 10px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-TOP: 10px; TEXT-ALIGN: left; BORDER-RIGHT-WIDTH: 0px
+}
+.tabs .tab_item {
+	BORDER-RIGHT: #747474 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #747474 1px solid; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FLOAT: left; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 3px; BORDER-LEFT: #747474 1px solid; COLOR: #ffffff; MARGIN-RIGHT: 2px; PADDING-TOP: 3px; BACKGROUND-COLOR: #d30e0e
+}
+.tabs .selected {
+	COLOR: #5b5b5b; BACKGROUND-COLOR: #787878
+}
+.tabs A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.tabs A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.tabs A.selected:hover {
+	COLOR: #5b5b5b; TEXT-DECORATION: none
+}
