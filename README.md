@@ -39,5 +39,5 @@ db_path="data/sadan-user#2008-12-24.mdb"
 
 开发：草札 www.caozha.com
 
-鸣谢：品络 www.pinluo.com    琼店 www.qiongdian.com
+鸣谢：品络 www.pinluo.com  &ensp;  琼店 www.qiongdian.com
 
