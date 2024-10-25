@@ -8,9 +8,9 @@
 
 支持本程序，请到Gitee和GitHub给我们点Star！
 
-Gitee：https://gitee.com/caozha/Santa-Yourself
+Gitee：https://gitee.com/dengzhenhua/Santa-Yourself
 
-GitHub：https://github.com/cao-zha/Santa-Yourself
+GitHub：https://github.com/dengcao/Santa-Yourself
 
 ### 安装方法
 
@@ -35,9 +35,9 @@ db_path="data/sadan-user#2008-12-24.mdb"
 3、程序使用了“化境HTTP上传程序 Version 2.1”，如果杀毒软件误报，你担心的话可以改成其他ASP上传组件。
 
 
-### 版权所有
+### 关于
 
-开发：草札 www.caozha.com
+开发：[邓草博客 blog.5300.cn](http://blog.5300.cn)
 
-鸣谢：品络 www.pinluo.com  &ensp;  穷店 www.qiongdian.com
+赞助：[品络互联 www.pinluo.com](http://www.pinluo.com)  &ensp;  [AI工具箱 5300.cn](http://5300.cn)  &ensp;  [汉语言文学网 hyywx.com](http://hyywx.com)  &ensp;  [雄马 xiongma.cn](http://xiongma.cn) &ensp;  [优惠券 tm.gs](http://tm.gs)
 
